@@ -1,7 +1,7 @@
 ﻿namespace ProjAddition;
-public class Adder
+public class Calculator
 {  
-    public int Sum(int n1, int n2)
+    public int Add(int n1, int n2)
     {
         return n1+n2;
     }
